@@ -4,7 +4,7 @@ export declare enum ChainId {
     POLYGON = 137,
     AVALANCHE = 43114,
     ARBITRUM_ONE = 42161,
-    ARB_GOERLI = 421613,
+    ARB_GOERLI = 5,
     BNB_CHAIN = 56,
     BNB_TESTNET = 97
 }

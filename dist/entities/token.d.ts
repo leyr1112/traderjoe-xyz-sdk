@@ -36,7 +36,7 @@ export declare const WNATIVE: {
     137: Token;
     43114: Token;
     42161: Token;
-    421613: Token;
+    5: Token;
     56: Token;
     97: Token;
 };
@@ -44,7 +44,7 @@ export declare const WAVAX: {
     137: Token;
     43114: Token;
     42161: Token;
-    421613: Token;
+    5: Token;
     56: Token;
     97: Token;
 };

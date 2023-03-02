@@ -21,7 +21,7 @@ var _FACTORY_ADDRESS, _JOE_ADDRESS, _MASTERCHEF_ADDRESS, _MASTERCHEF_V3_ADDRES, 
   ChainId[ChainId["POLYGON"] = 137] = "POLYGON";
   ChainId[ChainId["AVALANCHE"] = 43114] = "AVALANCHE";
   ChainId[ChainId["ARBITRUM_ONE"] = 42161] = "ARBITRUM_ONE";
-  ChainId[ChainId["ARB_GOERLI"] = 421613] = "ARB_GOERLI";
+  ChainId[ChainId["ARB_GOERLI"] = 5] = "ARB_GOERLI";
   ChainId[ChainId["BNB_CHAIN"] = 56] = "BNB_CHAIN";
   ChainId[ChainId["BNB_TESTNET"] = 97] = "BNB_TESTNET";
 })(exports.ChainId || (exports.ChainId = {}));
