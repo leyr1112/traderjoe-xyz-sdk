@@ -33,7 +33,7 @@ export declare class Token {
  */
 export declare function currencyEquals(currencyA: Currency, currencyB: Currency): boolean;
 export declare const WNATIVE: {
-    43113: Token;
+    137: Token;
     43114: Token;
     42161: Token;
     421613: Token;
@@ -41,7 +41,7 @@ export declare const WNATIVE: {
     97: Token;
 };
 export declare const WAVAX: {
-    43113: Token;
+    137: Token;
     43114: Token;
     42161: Token;
     421613: Token;
